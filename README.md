@@ -6,7 +6,7 @@
 - 🌱 I've previously worked at [Symbol Robotics](https://symbolrobotics.com/), [Asteria Aerospace](https://www.asteria.co.in), [SUN Mobility](https://www.sunmobility.com/), [DRDO-Pune](https://www.drdo.gov.in/labs-and-establishments/research-development-establishment-rdee)
 - ⏩ My interests are in Motion Planning & Controls for Robots!
 - 📚 Selected Coursework @ CMU Robotics:
-  - Planning for Robotics, Optimal Control, Robot Autonomy, Computer Vision, Robot Mobility, Manipulaion-Estimation-Controls, Spacecraft Design
+  - Planning for Robotics, Optimal Control, Robot Autonomy, Computer Vision, Robot Mobility, Manipulation-Estimation-Controls, Spacecraft Design
 
 
 
