@@ -1,13 +1,11 @@
 ## 👋 Hi there, I'm Shivam! 
 
-### About Me
+### About Me 
 - 🧑‍🎓 M.S. in Robotic Systems Development @ Carnegie Mellon University (USA), B.Tech in Mechanical Engineering @ MIT World Peace University (India)
-- 🤖 I'm currently working on an [Autonomous Mobile Manipulator Robot for Indoor Fetch & Retrieval Tasks](https://mrsdprojects.ri.cmu.edu/2023teamf/)
-- 🌱 I've previously worked at [Symbol Robotics](https://symbolrobotics.com/), [Asteria Aerospace](https://www.asteria.co.in), [SUN Mobility](https://www.sunmobility.com/), [DRDO-Pune](https://www.drdo.gov.in/labs-and-establishments/research-development-establishment-rdee)
+- 🤖 I recently finished working on an [Autonomous Mobile Manipulator Robot for Indoor Fetch & Retrieval Tasks](https://github.com/shivamtrip/assistive-robot)
+- 🌱 I've previously worked at [Symbol Robotics](https://symbolrobotics.com/), [Asteria Aerospace](https://www.asteria.co.in), [SUN Mobility](https://www.sunmobility.com/), [DRDO-Pune](https://www.drdo.gov.in/labs-and-establishments/research-development-establishment-rdee) 
 - ⏩ My interests are in Motion Planning & Controls for Robots!
-- 📚 Selected Coursework @ CMU Robotics:
-  - Planning for Robotics, Optimal Control, Robot Autonomy, Computer Vision, Robot Mobility, Manipulation-Estimation-Controls, Spacecraft Design
-
+- 📚 **Selected Coursework @ CMU Robotics:** Planning for Robotics, Optimal Control, Visual Learning & Recognition, Robot Learning, Computer Vision, Robot Mobility, Manipulation-Estimation-Controls, Spacecraft Design
 
 
 
